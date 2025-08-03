@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there 👋 I'm Madhushan<br>🎓 Studying BIT at University of Moratuwa (2nd semester)<br>💼 Working in customer support at LB Finance<br>📚 Learning Python, Database and web development<br>☁️ Exploring Cloud Computing<br>💡 Looking for internship opportunities in IT<br>🔄 Improving soft skills and communication<br>🧠 Goal: Become a successful IT industry
+## PROFILE:
+
+Hi there 👋 I'm Madhushan<br>🎓 Studying Bachelor of IT at University of Moratuwa (2nd semester)<br>💼 Working in customer support at LB Finance<br>📚 Learning Python, Database and web development<br>☁️ Exploring Cloud Computing<br>💡 Looking for internship opportunities in IT<br>🔄 Improving soft skills and communication<br>🧠 Goal: Become a successful IT industry
 
 
 ## 🌐 Socials:
