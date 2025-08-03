@@ -9,11 +9,17 @@
   <img src="https://i.ibb.co/some-image.jpg" width="200px" style="border-radius: 50%;">
 </p> -->
 
-<h3 align="center">B.Sc. Eng. (Hons) | Computer Engineering | University of Ruhuna</h3>
+<h3 align="center">Bachelor's of Information Technology | University of Moratuwa</h3>
 
 ---
 
-Hi there 👋 I'm Madhushan<br><br>🎓 Studying Bachelor of IT at University of Moratuwa (2nd semester)<br>💼 Working in customer support at LB Finance<br>📚 Learning Python, Database and web development<br>☁️ Exploring Data Engineering<br>💡 Looking for internship opportunities in IT<br>🔄 Improving soft skills and communication<br>🧠 Goal: Become a successful IT industry
+Hi there 👋 I'm Madhushan<br><br>
+- 🎓 Studying Bachelor of IT at University of Moratuwa (2nd semester)<br>
+- 💼 Working in customer support at LB Finance<br>
+- 📚 Learning Python, Database and web development<br>☁️ Exploring Data Engineering<br>
+- 💡 Looking for internship opportunities in IT<br>
+- 🔄 Improving soft skills and communication<br>
+- 🧠 Goal: Become a successful Beckend IT Proffetional
 
 
 ## 🌐 Socials:
