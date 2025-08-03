@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/01-Madhu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Hi+I'm+Madhushan+Sangaralingam;Computer+Engineering+Undergraduate;Future+Tech+Entrepreneur" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Hi+I'm+Madhushan+Sangaralingam;Information+Technology+Undergraduate;Future+Tech+Entrepreneur" alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,14 +9,14 @@
   <img src="https://i.ibb.co/some-image.jpg" width="200px" style="border-radius: 50%;">
 </p> -->
 
-<h3 align="center">Bachelor's of Information Technology | University of Moratuwa</h3>
+<h3 align="center">Information Technology | University of Moratuwa | External Degree</h3>
 
 ---
 
 Hi there 👋 I'm Madhushan<br><br>
-- 🎓 Studying Bachelor of IT at University of Moratuwa (2nd semester)<br>
 - 💼 Working in customer support at LB Finance<br>
-- 📚 Learning Python, Database and web development<br>☁️ Exploring Data Engineering<br>
+- 📚 Learning Python, Database and web development<br>
+- ☁️ Exploring Data Engineering<br>
 - 💡 Looking for internship opportunities in IT<br>
 - 🔄 Improving soft skills and communication<br>
 - 🧠 Goal: Become a successful Beckend IT Proffetional
