@@ -1,4 +1,8 @@
-## PROFILE:
+<p align="center">
+  <a href="https://github.com/01-Madhu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Hi+I'm+Madhushan+Sangaralingam;Computer+Engineering+Undergraduate;Future+Tech+Entrepreneur" alt="Typing SVG" />
+  </a>
+</p>
 
 Hi there 👋 I'm Madhushan<br><br>🎓 Studying Bachelor of IT at University of Moratuwa (2nd semester)<br>💼 Working in customer support at LB Finance<br>📚 Learning Python, Database and web development<br>☁️ Exploring Data Engineering<br>💡 Looking for internship opportunities in IT<br>🔄 Improving soft skills and communication<br>🧠 Goal: Become a successful IT industry
 
