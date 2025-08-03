@@ -9,7 +9,7 @@
   <img src="https://i.ibb.co/some-image.jpg" width="200px" style="border-radius: 50%;">
 </p> -->
 
-<h3 align="center">Information Technology | University of Moratuwa | External Degree</h3>
+<h3 align="center">Bachelor's | Information Technology | University of Moratuwa |</h3>
 
 ---
 
