@@ -14,12 +14,11 @@
 ---
 
 Hi there 👋 I'm Madhushan<br><br>
-- 💼 Working in customer support at LB Finance<br>
-- 📚 Learning Python, Database and web development<br>
-- ☁️ Exploring Data Engineering<br>
-- 💡 Looking for internship opportunities in IT<br>
-- 🔄 Improving soft skills and communication<br>
-- 🧠 Goal: Become a successful Beckend IT Proffetional
+- 📚 Learning Python, Databases & Web Development
+- ☁️ Exploring Data Engineering
+- 💡 Looking for Internship Opportunities in IT
+- 🗣️ Improving Soft Skills and Communication
+- 🎯 Goal: Become a Skilled Backend IT Professional
 
 
 ## 🌐 Socials:
