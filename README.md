@@ -23,32 +23,35 @@ Hi there 👋 I'm Madhushan<br><br>
 - 🎯 Goal: Become a Skilled Backend IT Professional
 
 
+<!-- 💻 Tech Stack -->
 <h4 style="color: #722323;">💻 Tech Stack</h4>
 
 ##
-  <p style="text-align: center;"><img title="HTML5"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-      alt="html5-original.svg" width="40" height="40"> <img title="CSS3"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-      alt="css3-original.svg" width="40" height="40"> <img title="JavaScript"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      alt="javascript-original.svg" width="40" height="40"> <img title="Python"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      alt="python-original.svg" width="40" height="40"> <img title="C#"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-      alt="csharp-original.svg" width="40" height="40"> <img title="MySQL"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      alt="mysql-original.svg" width="40" height="40"> <img title="Git"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      alt="git-original.svg" width="40" height="40"></p>
-  
-  
-  <h4 style="color: #722323;">🌐 Connect with Me</h4>
 
-  ##
-  <p style="text-align: center;">
+<div style="text-align: center;">
+  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    alt="html5-original.svg" width="40" height="40" style="margin-right: 10px;">
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    alt="css3-original.svg" width="40" height="40" style="margin-right: 10px;">
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    alt="javascript-original.svg" width="40" height="40" style="margin-right: 10px;">
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    alt="python-original.svg" width="40" height="40" style="margin-right: 10px;">
+  <img title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    alt="csharp-original.svg" width="40" height="40" style="margin-right: 10px;">
+  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    alt="mysql-original.svg" width="40" height="40" style="margin-right: 10px;">
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    alt="git-original.svg" width="40" height="40">
+</div>
 
-  <!-- Gmail (Email) -->
+<!-- 🌐 Connect Section -->
+<h4 style="color: #722323;">🌐 Connect with Me</h4>
+
+##
+
+<div style="text-align: center;">
+  <!-- Gmail -->
   <a href="mailto:sangaralingammadhushan@gmail.com" target="_blank" rel="noreferrer noopener">
     <img title="Email" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" height="40" style="margin-right: 10px;">
   </a>
@@ -72,8 +75,7 @@ Hi there 👋 I'm Madhushan<br><br>
   <a href="https://www.facebook.com/Madhushan%20Sangaralingam" target="_blank" rel="noreferrer noopener">
     <img title="Facebook" src="https://img.icons8.com/color/48/facebook-new.png" alt="facebook" width="40" height="40">
   </a>
-
-</p>
+</div>
 
         
 
